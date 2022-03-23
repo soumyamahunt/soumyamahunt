@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I do little bit of blogging: https://soumyamahunt.medium.com
+- 🌱 I try to post cool stuff on my twitter: https://twitter.com/soumya_mahunt
+
+![soumyamahunt's github stats](https://github-readme-stats.vercel.app/api?username=soumyamahunt&count_private=true&show_icons=true&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=soumyamahunt)
+
 <!--
 **soumyamahunt/soumyamahunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
