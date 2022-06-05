@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Soumya
 
-- 🔭 I do little bit of blogging: https://soumyamahunt.medium.com
-- 🌱 I try to post cool stuff on my twitter: https://twitter.com/soumya_mahunt
+- 🔭 I write articles on various software topics: https://soumyamahunt.medium.com
+- 🌱 I post cool stuff on my twitter: https://twitter.com/soumya_mahunt
+- 👯 In my free time, I work on cool projects...
 
 ![soumyamahunt's github stats](https://github-readme-stats.vercel.app/api?username=soumyamahunt&count_private=true&show_icons=true&hide_border=true)
 
